@@ -34,6 +34,14 @@ Bu proje, Sinyaller ve Sistemler dersi kapsamında gerçekleştirilmiş olup, fa
 - Python 3.8+
 - Gerekli kütüphaneler: pip install numpy scipy matplotlib soundfile sounddevice noisereduce
 
+## Kullanılan Kaynaklar
+-	Oppenheim, A. V., Willsky, A. S., & Nawab, S. H. (1996). Signals and Systems. Prentice Hall.
+-	https://numpy.org/
+-	https://www.quora.com/How-can-I-separate-the-background-noise-from-my-audio-using-Python
+-	https://realpython.com/python-wav-files/
+-	https://matplotlib.org/
+-	https://it.mathworks.com/matlabcentral/answers/318925-how-to-filter-wav-file-using-butterworth-bandpass-filter
+
 ## Hazırlayan
 
 - Nagihan Zan - 22060682
