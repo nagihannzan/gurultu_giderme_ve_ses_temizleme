@@ -29,13 +29,10 @@ Bu proje, Sinyaller ve Sistemler dersi kapsamında gerçekleştirilmiş olup, fa
 
 ---
 
-## Gereksinimler
+## Projede Kullanılanlar
 
 - Python 3.8+
 - Gerekli kütüphaneler: pip install numpy scipy matplotlib soundfile sounddevice noisereduce
-
-## Notlar
----
 
 ## Hazırlayan
 
